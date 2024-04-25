@@ -1,5 +1,5 @@
 # APP-DanceSP
-Obs: estou com problemas com git bash, então irei mandar o arquivo compactado tudo bem?
+Obs: estou com problemas com git bash, não vou conseguir mandar o arquivo do aplicativo tudo bem?
 ![image](https://github.com/IsabelaCSS/Dance-App/assets/128037357/6fe33b5f-5140-473c-a1b4-d8d599c36875)
 
 Carolina de Oliveira Alves 3°DS
