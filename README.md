@@ -39,7 +39,8 @@ Ambas telas terão o mesmo layout onde irá cadastrar o email e senha do usuári
 # Tela de Perfil - Dinâmica 
 Essa tela será onde as informações de login serão mostradas ao usuário, como o nome, email, foto de perfil e foto de fundo. Será implementado um botão para os favoritos do usuário.
 
-
+# Desenvolvimento do app
+https://github.com/IsabelaCSS/Dance-App/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento-do-App
 
 # Telas Atualizadas
 
