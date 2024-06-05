@@ -1,10 +1,7 @@
 # APP-DanceSP
-Obs: estou com problemas com git bash, não vou conseguir mandar o arquivo do aplicativo tudo bem?
-![image](https://github.com/IsabelaCSS/Dance-App/assets/128037357/6fe33b5f-5140-473c-a1b4-d8d599c36875)
-
 Carolina de Oliveira Alves 3°DS
 
-Isabela de Oliveira Alves 3°DS
+Guilherme Gasperini Valente 3°DS
 
 ##     O DanceSP será um aplicativo onde obterá informações sobre os grupos de "Street's Dance" mais famosos de São Paulo, informações como a história do grupo, localização, criador ou lider do grupo, modalidades e informações sobre as criadoras da aplicação, assim podendo levar conhecimento sobre os grupos de São Paulo.
 
